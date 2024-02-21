@@ -2,4 +2,4 @@
 My first website
 
 ## My favorite class
-![alt text](capture.jpg)
+![alt text](businesswoman-260nw-1.png)
